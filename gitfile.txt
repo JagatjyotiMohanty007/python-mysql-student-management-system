@@ -1,0 +1,11 @@
+git init
+
+git add .
+
+git commit -m "Initial commit - Python MySQL CRUD Project"
+
+git branch -M main
+
+git remote add origin https://github.com/yourusername/python-mysql-student-management-system.git
+
+git push -u origin main
